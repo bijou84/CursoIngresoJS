@@ -7,3 +7,5 @@ function mostrar()
 	alert(nombre);
 }
 
+ //probando git por cmd
+ 
